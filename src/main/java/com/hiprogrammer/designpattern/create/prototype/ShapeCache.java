@@ -1,5 +1,6 @@
-package com.hiprogrammer.designpattern.create.prototype.dto;
+package com.hiprogrammer.designpattern.create.prototype;
 
+import com.hiprogrammer.designpattern.create.prototype.dto.Shape;
 import com.hiprogrammer.designpattern.create.prototype.dto.shapes.Circle;
 import com.hiprogrammer.designpattern.create.prototype.dto.shapes.Rectangle;
 import com.hiprogrammer.designpattern.create.prototype.dto.shapes.Square;
