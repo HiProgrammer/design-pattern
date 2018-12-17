@@ -1,7 +1,7 @@
 package com.hiprogrammer.designpattern.create.factory;
 
 
-import com.hiprogrammer.designpattern.create.abstractFactory.AbstractFactory;
+import com.hiprogrammer.designpattern.create.abstractfactory.AbstractFactory;
 import com.hiprogrammer.designpattern.create.factory.api.Color;
 import com.hiprogrammer.designpattern.create.factory.api.Shape;
 import com.hiprogrammer.designpattern.create.factory.dto.Circle;

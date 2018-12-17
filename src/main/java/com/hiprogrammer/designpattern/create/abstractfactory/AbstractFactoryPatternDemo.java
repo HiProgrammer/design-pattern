@@ -1,4 +1,4 @@
-package com.hiprogrammer.designpattern.create.abstractFactory;
+package com.hiprogrammer.designpattern.create.abstractfactory;
 
 import com.hiprogrammer.designpattern.create.factory.api.Color;
 import com.hiprogrammer.designpattern.create.factory.api.Shape;
